@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>jokeremmmmmmm</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-07-20T07:51:37.197Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Joker、</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>FRIENDS</title>
+    <link href="http://yoursite.com/2018/03/31/FRIENDS/"/>
+    <id>http://yoursite.com/2018/03/31/FRIENDS/</id>
+    <published>2018-03-31T15:27:52.000Z</published>
+    <updated>2019-07-20T07:51:37.197Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;/images/Friends.jpg&quot; alt&gt;&lt;br&gt;Love,Friendship,and Move
+        
+      
+    
+    </summary>
+    
+    
+      <category term="老友记，影视" scheme="http://yoursite.com/tags/%E8%80%81%E5%8F%8B%E8%AE%B0%EF%BC%8C%E5%BD%B1%E8%A7%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/03/31/World/"/>
+    <id>http://yoursite.com/2018/03/31/World/</id>
+    <published>2018-03-31T08:11:48.000Z</published>
+    <updated>2019-07-20T07:51:37.198Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;/images/LeeHyeri.jpg&quot; alt&gt;&lt;br&gt;你好，世界 
+        
+      
+    
+    </summary>
+    
+    
+      <category term="闲言" scheme="http://yoursite.com/tags/%E9%97%B2%E8%A8%80/"/>
+    
+  </entry>
+  
+</feed>
